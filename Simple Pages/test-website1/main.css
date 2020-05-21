@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  background: #ff0000;
+  height: 20vh;
+  width: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 1rem;
+}
+
+ul.nav-list {
+  list-style: none;
+  background: #fff;
+}
+
+li {
+  text-align: center;
+  display: inline-block;
+  text-decoration: underline;
+  background: #999;
+  padding: 0 1rem;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+.lg-heading {
+  text-decoration: underline;
+}
+
+.body {
+  background: #00f;
+  color: #fff;
+  height: 80vh;
+  width: 100%;
+  padding: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
